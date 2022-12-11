@@ -1,0 +1,21 @@
+.button {
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bold;
+    -fx-font-size: 16;
+}
+
+.label {
+    -fx-font-family: Broadway;
+    -fx-font-weight: bold;
+    -fx-font-size: 28;
+    -fx-text-fill: #51484F;
+}
+
+
+#labeldraw {
+    -fx-font-family: "Times New Roman";
+    -fx-font-style: italic;
+    -fx-text-fill: #404040;
+    -fx-font-size: 24;
+
+}
